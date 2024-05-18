@@ -2,4 +2,4 @@
 
 Chrome Extension for SSI Keys
 
-Bought you by Bitswap and Area Layer
+Bought for you by Bitswap and Area Layer
