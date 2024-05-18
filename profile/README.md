@@ -1,4 +1,4 @@
-## SSI Keys
+## SSI Keys 🔑
 
 Chrome Extension for SSI Keys
 
